@@ -92,15 +92,15 @@ for more information.
 .. _PyPI: https://pypi.python.org/
 .. _semantic versioning: https://semver.org/
 
-.. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
+.. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg?style=flat&labelColor=000000&color=66023C
    :alt: Black code style
    :target: https://black.readthedocs.io/
-.. |latest-version| image:: https://img.shields.io/pypi/v/cerberus.svg
+.. |latest-version| image:: https://img.shields.io/pypi/v/cerberus.svg?style=flat&labelColor=000000&color=66023C
    :alt: Latest version on PyPI
    :target: https://pypi.org/project/cerberus
-.. |license| image:: https://img.shields.io/pypi/l/cerberus.svg
+.. |license| image:: https://img.shields.io/pypi/l/cerberus.svg?style=flat&labelColor=000000&color=66023C
    :alt: Software license
    :target: https://github.com/pyeve/cerberus/blob/1.3.x/LICENSE
-.. |python-support| image:: https://img.shields.io/pypi/pyversions/cerberus.svg
+.. |python-support| image:: https://img.shields.io/pypi/pyversions/cerberus.svg?style=flat&labelColor=000000&color=66023C
    :target: https://pypi.python.org/pypi/cerberus
    :alt: Python versions
